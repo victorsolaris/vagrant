@@ -1,8 +1,8 @@
 # Update Packages
- yum -y Update
+yum -y updates
 
- # Install Java
- yum -y install java-11-openjdk
- java -version
+# Install Vim 
+yum -y install vim
 
- # 
+# Install Java
+yum -y install java-11-openjdk
